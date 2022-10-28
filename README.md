@@ -1,8 +1,8 @@
 # prj-r
 IASciD
-* [![Django][Django.com]][Django-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
 subheader
 ---------
 
