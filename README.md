@@ -1,6 +1,6 @@
 # prj-r
 IASciD
-
+<!--
 <a name="readme-top"></a>
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -8,7 +8,7 @@ IASciD
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
+-->
 subheader
 ---------
 
