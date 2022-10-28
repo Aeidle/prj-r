@@ -1,7 +1,7 @@
 # prj-r
 IASciD
 
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![Trafic](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
 subheader
 ---------
