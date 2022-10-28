@@ -1,1 +1,29 @@
-
+- name: Build-A-Badge
+  # You may pin to the exact commit or the version.
+  # uses: peterrhodesdev/build-a-badge@7633313a20d84cd9f984f4366aa3e3f33cc14ea4
+  uses: peterrhodesdev/build-a-badge@v1.3.0
+  with:
+    # Used for authentication
+    token: 
+    # The filename to use in the wiki for storing the JSON badge data
+    filename: 
+    # The left text, or the empty string to omit the left side of the badge
+    label: 
+    # The right text
+    message: 
+    # The right color
+    color: # optional, default is 
+    # The left color
+    labelColor: # optional, default is 
+    # Logo supported by Shields
+    namedLogo: # optional, default is 
+    # An SVG string containing a custom logo
+    logoSvg: # optional, default is 
+    # The default template to use
+    style: # optional, default is 
+    # Override for the wiki commit username
+    wikiCommitUsername: # optional, default is 
+    # Override for the wiki commit email
+    wikiCommitEmail: # optional, default is 
+    # Override for the wiki commit message
+    wikiCommitMessage: # optional, default is 
