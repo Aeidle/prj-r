@@ -1,7 +1,7 @@
 # prj-r
 IASciD
 
-![Profile views](https://gpvc.arturio.dev/Naereen)
+
 
 subheader
 ---------
