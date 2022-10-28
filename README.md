@@ -1,7 +1,7 @@
 # prj-r
 IASciD
 
-![Traffic][traffic_branch][(https://github.com/Aeidle/prj-r/blob/main/.github/workflows/main.yml)]
+![traffic_branch][(https://github.com/Aeidle/prj-r/blob/main/.github/workflows/main.yml)]
 
 subheader
 ---------
