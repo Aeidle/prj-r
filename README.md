@@ -5,7 +5,7 @@ IASciD
   <img src="https://contrib.rocks/image?repo=Aeidle/prj-r" />
 </a>
 
-[![trafic](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)]
+[![trafic](https://img.shields.io/badge/<Trafic>-<MESSAGE>-<Blue>)][https://github.com/Aeidle/prj-r/graphs/traffic]
 
 
 subheader
