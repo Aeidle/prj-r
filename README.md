@@ -1,7 +1,11 @@
 # prj-r
 IASciD
 
+<a href="https://github.com/Aeidle/prj-r/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Aeidle/prj-r" />
+</a>
 
+Made with [contrib.rocks](https://contrib.rocks).
 
 subheader
 ---------
