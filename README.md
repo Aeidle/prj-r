@@ -5,7 +5,7 @@ IASciD
   <img src="https://contrib.rocks/image?repo=Aeidle/prj-r" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks).
+
 
 subheader
 ---------
